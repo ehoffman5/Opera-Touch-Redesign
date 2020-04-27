@@ -1,7 +1,7 @@
 # Project Encore
-### *Re-Imagining Opera's Mobile Browser*
+## Re-Imagining Opera's Mobile Browser
 
-This is the official repository of Project Encore, dedicated to providing an all-out redesign of the Opera Touch mobile browser.
+This is the official repository of Project Encore, dedicated to providing an all-out redesign of the Opera Touch mobile app.
 
 
 
