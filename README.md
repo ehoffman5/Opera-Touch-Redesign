@@ -3,16 +3,15 @@
 
 This is the official repository of Project Encore, dedicated to providing an all-out redesign of the Opera Touch mobile app.
 
-
-![prototype images]()
+![standard-mode](https://user-images.githubusercontent.com/35542660/80423164-1d40f880-88a5-11ea-821f-401934e6fe04.png)
 
 
 
 ## What is Project Encore?
 
-Brief summary of project and explanation of repository files.
+-- Brief summary of project and explanation of repository files --
 
-![prototype images]()
+![private-mode](https://user-images.githubusercontent.com/35542660/80423540-ce479300-88a5-11ea-9b92-239c8fb307e0.png)
 
 
 
