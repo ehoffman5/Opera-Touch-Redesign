@@ -9,7 +9,9 @@ This is the official repository of Project Encore, dedicated to providing an all
 
 ## What is Project Encore?
 
--- Brief summary of project and explanation of repository files --
+The goal of Project Encore is to elevate the Opera Touch mobile browser to the same level as its desktop counterpart. Opera Touch is the mobile version of Opera, and while it is quite a powerful app, its UI and especially UX are lacking.  Project Encore's purpose is to place that power back in the user's hands.  Some of the major issues with the app include: difficult navigation, a lack of elasticity, missing bookmark functionality, and far too many forced actions.  This project was developed for my Human-Computer Interaction course, so for a full description of this redesign, please read my final report at the following link:
+
+https://docs.google.com/document/d/1Kz397ccDhzEh6QKmq_zt-O3H5xxoc2gsvOpUu3S7K_0/edit?usp=sharing
 
 ![private-mode](https://user-images.githubusercontent.com/35542660/80423540-ce479300-88a5-11ea-9b92-239c8fb307e0.png)
 
